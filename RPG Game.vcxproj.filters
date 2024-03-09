@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="來源檔案">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="標頭檔">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="資源檔">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="來源檔案\tmxlite">
+      <UniqueIdentifier>{c2b490cd-9dd7-47fd-87ed-d7abdc9e5cdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\tmxlite">
+      <UniqueIdentifier>{0a9332f5-19b8-42e6-82ad-042da3ebdcbb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\Debug">
+      <UniqueIdentifier>{b2bdee50-7c25-4068-a925-abf58a56c2ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\Characters">
+      <UniqueIdentifier>{011f2c47-0c1a-474b-add9-5bd6f4e09cb3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="來源檔案\Characters">
+      <UniqueIdentifier>{9ee215dc-262f-4b77-b2f4-dae45280e926}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\Enemies">
+      <UniqueIdentifier>{84272558-7d55-48af-abcf-0f19baab066c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="來源檔案\Enemies">
+      <UniqueIdentifier>{5efb0ad6-830e-4bab-a9ea-0cf8e58508e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\Physics">
+      <UniqueIdentifier>{7c34fea0-429a-4d3a-a9b0-2fc8fbb05b0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="來源檔案\Physics">
+      <UniqueIdentifier>{d66a0919-54ca-408c-84f4-c91de1ffdf73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="來源檔案\States">
+      <UniqueIdentifier>{3d734b07-5b39-441f-b77c-85857092ea5f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="資源檔\shaders">
+      <UniqueIdentifier>{f70b49e1-6560-47fd-ada5-fdfd359552e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\States">
+      <UniqueIdentifier>{1f7cf990-6cf9-4d07-9e4b-46a09aa6f9ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="來源檔案\Objects">
+      <UniqueIdentifier>{56fc5190-a62f-4f5f-ac45-66a93b272ee5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="標頭檔\Objects">
+      <UniqueIdentifier>{64ed1b72-2493-4aa4-96ee-1a798e63c2f1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="src\KeyState.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Game.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="src\State.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Animation.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Character.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tmxlite\detail\pugixml.cpp">
+      <Filter>來源檔案\tmxlite</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tmxlite\FreeFuncs.cpp">
+      <Filter>來源檔案\tmxlite</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tmxlite\ImageLayer.cpp">
+      <Filter>來源檔案\tmxlite</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tmxlite\LayerGroup.cpp">
+      <Filter>來源檔案\tmxlite</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tmxlite\Map.cpp">
+      <Filter>來源檔案\tmxlite</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tmxlite\miniz.c">
+      <Filter>來源檔案\tmxlite</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tmxlite\Object.cpp">
+      <Filter>來源檔案\tmxlite</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tmxlite\ObjectGroup.cpp">
+      <Filter>來源檔案\tmxlite</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tmxlite\ObjectTypes.cpp">
+      <Filter>來源檔案\tmxlite</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tmxlite\Property.cpp">
+      <Filter>來源檔案\tmxlite</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tmxlite\TileLayer.cpp">
+      <Filter>來源檔案\tmxlite</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tmxlite\Tileset.cpp">
+      <Filter>來源檔案\tmxlite</Filter>
+    </ClCompile>
+    <ClCompile Include="src\TileMap.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="src\MapObjectLayer.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Enemy.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Characters\ToasterBot.cpp">
+      <Filter>來源檔案\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Enemies\DroidZapper.cpp">
+      <Filter>來源檔案\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Physics\AABB.cpp">
+      <Filter>來源檔案\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Physics\Body.cpp">
+      <Filter>來源檔案\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Physics\Circle.cpp">
+      <Filter>來源檔案\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Physics\PhysicsWorld.cpp">
+      <Filter>來源檔案\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Physics\Line.cpp">
+      <Filter>來源檔案\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Characters\SpritBoxer.cpp">
+      <Filter>來源檔案\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Enemies\StormHead.cpp">
+      <Filter>來源檔案\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Characters\BACBot.cpp">
+      <Filter>來源檔案\Characters</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Enemies\MudGuard.cpp">
+      <Filter>來源檔案\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="src\States\MainGameState.cpp">
+      <Filter>來源檔案\States</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Objects\Thorn.cpp">
+      <Filter>來源檔案\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\States\EndGameState.cpp">
+      <Filter>來源檔案\States</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Enemies\BigMudGuard.cpp">
+      <Filter>來源檔案\Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Objects\Heal.cpp">
+      <Filter>來源檔案\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\States\ShowTextState.cpp">
+      <Filter>來源檔案\States</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Objects\TextPopup.cpp">
+      <Filter>來源檔案\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Objects\WinArea.cpp">
+      <Filter>來源檔案\Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="src\States\ResetGameState.cpp">
+      <Filter>來源檔案\States</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Objects\Chest.cpp">
+      <Filter>來源檔案\Objects</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\Game.hpp">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="include\State.hpp">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="include\KeyState.hpp">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Animation.hpp">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Character.hpp">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\Config.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\FreeFuncs.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\ImageLayer.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\Layer.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\LayerGroup.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\Map.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\Object.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\ObjectGroup.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\ObjectTypes.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\Property.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\TileLayer.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\Tileset.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\Types.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\detail\Android.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\tmxlite\detail\Log.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="src\tmxlite\detail\pugixml.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="src\tmxlite\detail\pugiconfig.hpp">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="src\tmxlite\miniz.h">
+      <Filter>標頭檔\tmxlite</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MapTileLayer.hpp">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="include\TileMap.hpp">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="include\MapObjectLayer.hpp">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="include\FreeList.hpp">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Debug\Log.hpp">
+      <Filter>標頭檔\Debug</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Enemy.hpp">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Characters\ToasterBot.hpp">
+      <Filter>標頭檔\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Enemies\DroidZapper.hpp">
+      <Filter>標頭檔\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Physics\AABB.hpp">
+      <Filter>標頭檔\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Physics\Body.hpp">
+      <Filter>標頭檔\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Physics\Circle.hpp">
+      <Filter>標頭檔\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Physics\PhysicsWorld.hpp">
+      <Filter>標頭檔\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Physics\Line.hpp">
+      <Filter>標頭檔\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Characters\SpritBoxer.hpp">
+      <Filter>標頭檔\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Enemies\StormHead.hpp">
+      <Filter>標頭檔\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Characters\BACBot.hpp">
+      <Filter>標頭檔\Characters</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Enemies\MudGuard.hpp">
+      <Filter>標頭檔\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="include\States\MainGameState.hpp">
+      <Filter>標頭檔\States</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Objects\Thorn.hpp">
+      <Filter>標頭檔\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="include\States\EndGameState.hpp">
+      <Filter>標頭檔\States</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Enemies\BigMudGuard.hpp">
+      <Filter>標頭檔\Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Objects\Heal.hpp">
+      <Filter>標頭檔\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="include\States\ShowTextState.hpp">
+      <Filter>標頭檔\States</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Objects\TextPopup.hpp">
+      <Filter>標頭檔\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Objects\WinArea.hpp">
+      <Filter>標頭檔\Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="include\States\ResetGameState.hpp">
+      <Filter>標頭檔\States</Filter>
+    </ClInclude>
+    <ClInclude Include="include\Objects\Chest.hpp">
+      <Filter>標頭檔\Objects</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="include\tmxlite\Types.inl">
+      <Filter>標頭檔\tmxlite</Filter>
+    </None>
+    <None Include="shaders\endScreen.frag">
+      <Filter>資源檔\shaders</Filter>
+    </None>
+  </ItemGroup>
+</Project>
