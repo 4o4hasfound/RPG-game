@@ -1,0 +1,1803 @@
+﻿  Character.cpp
+D:\Program\C++\RPG Game\include\Animation.hpp(49,35): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(50,40): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,89): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,60): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,171): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,176): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(310,22): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(496,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(497,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(498,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(499,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\Physics\Line.hpp(30,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Program\C++\RPG Game\src\Character.cpp(63,46): warning C4244: '*=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  BACBot.cpp
+D:\Program\C++\RPG Game\include\Physics\Line.hpp(30,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(49,35): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(50,40): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,89): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,60): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,171): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,176): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(310,22): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(496,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(497,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(498,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(499,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\src\Characters\BACBot.cpp(62,82): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SpritBoxer.cpp
+D:\Program\C++\RPG Game\include\Physics\Line.hpp(30,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(49,35): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(50,40): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,89): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,60): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,171): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,176): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(310,22): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(496,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(497,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(498,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(499,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\src\Characters\SpritBoxer.cpp(85,82): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ToasterBot.cpp
+D:\Program\C++\RPG Game\include\Physics\Line.hpp(30,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(49,35): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(50,40): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,89): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,60): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,171): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,176): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(310,22): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(496,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(497,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(498,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(499,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+  DroidZapper.cpp
+D:\Program\C++\RPG Game\include\Physics\Line.hpp(30,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(49,35): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(50,40): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,89): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,60): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,171): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,176): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(310,22): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(496,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(497,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(498,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(499,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+  MudGuard.cpp
+D:\Program\C++\RPG Game\include\Physics\Line.hpp(30,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(49,35): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(50,40): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,89): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,60): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,171): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,176): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(310,22): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(496,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(497,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(498,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(499,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+  StormHead.cpp
+D:\Program\C++\RPG Game\include\Physics\Line.hpp(30,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(49,35): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(50,40): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,89): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,60): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,171): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,176): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(310,22): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(496,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(497,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(498,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(499,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+  Enemy.cpp
+D:\Program\C++\RPG Game\include\Physics\Line.hpp(30,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(49,35): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(50,40): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,89): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,60): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,171): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,176): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(310,22): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(496,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(497,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(498,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(499,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\src\Enemy.cpp(22,45): warning C4244: '*=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Game.cpp
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,89): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,60): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,171): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,176): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(310,22): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(496,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(497,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(498,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(499,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\Animation.hpp(49,35): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(50,40): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\Physics\Line.hpp(30,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PhysicsWorld.cpp
+D:\Program\C++\RPG Game\include\Physics\Line.hpp(30,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(14,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(25,54): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(25,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(26,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(26,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(27,52): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(27,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(28,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(28,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(48,54): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(48,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(49,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(49,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(50,52): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(50,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(51,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(51,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(60,54): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(60,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(61,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(61,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(62,52): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(62,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(63,55): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(63,15): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(212,66): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(212,16): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(213,67): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(213,16): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(214,64): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(214,16): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(215,67): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(215,16): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(345,88): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(345,20): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(349,89): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(349,20): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(355,37): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(357,62): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(357,19): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(359,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(380,86): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(380,20): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(384,91): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(384,20): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(389,40): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(390,61): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(391,60): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(391,19): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(392,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\FreeList.hpp(135,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\FreeList.hpp(134): message : while compiling class template member function 'FreeList<int>::Const_Iterator FreeList<int>::end(void) const'
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(228): message : see reference to function template instantiation 'FreeList<int>::Const_Iterator FreeList<int>::end(void) const' being compiled
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(36): message : see reference to class template instantiation 'FreeList<int>' being compiled
+D:\Program\C++\RPG Game\include\FreeList.hpp(126,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\FreeList.hpp(125): message : while compiling class template member function 'FreeList<int>::Iterator FreeList<int>::end(void)'
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(36): message : see reference to function template instantiation 'FreeList<int>::Iterator FreeList<int>::end(void)' being compiled
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(102,25): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(126): message : see reference to function template instantiation 'std::vector<Body *,std::allocator<Body *>> PhysicsWorld::query<BodyType::None>(const AABB &)' being compiled
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(102,15): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(103,25): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(103,15): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(104,25): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(104,15): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(105,25): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(105,15): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(135,25): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(159): message : see reference to function template instantiation 'std::vector<Body *,std::allocator<Body *>> PhysicsWorld::query<BodyType::None>(const Circle &)' being compiled
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(135,15): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(136,25): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(136,15): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(137,25): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(137,15): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(138,25): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(138,15): warning C4244: 'initializing': conversion from 'const _Ty' to 'const int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(168,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(198): message : see reference to function template instantiation 'std::vector<Body *,std::allocator<Body *>> PhysicsWorld::query<BodyType::None>(const Line &)' being compiled
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(169,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(173,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\src\Physics\PhysicsWorld.cpp(174,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  MainGameState.cpp
+D:\Program\C++\RPG Game\include\Animation.hpp(49,35): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(50,40): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,89): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,60): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,171): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,176): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(310,22): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(496,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(497,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(498,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(499,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\Physics\Line.hpp(30,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Program\C++\RPG Game\src\States\MainGameState.cpp(4,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,89): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(255,60): warning C4244: 'argument': conversion from 'uint32_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(261,171): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(262,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,120): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,101): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,204): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(264,185): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,106): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(265,176): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(310,22): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(496,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(497,25): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(498,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\MapTileLayer.hpp(499,76): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=unsigned int
+          ]
+D:\Program\C++\RPG Game\include\Animation.hpp(49,35): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\Animation.hpp(50,40): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+D:\Program\C++\RPG Game\include\Physics\Line.hpp(30,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+     Creating library D:\Program\C++\RPG Game\x64\Debug\RPG Game.lib and object D:\Program\C++\RPG Game\x64\Debug\RPG Game.exp
+  RPG Game.vcxproj -> D:\Program\C++\RPG Game\x64\Debug\RPG Game.exe

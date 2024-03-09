@@ -1,0 +1,47 @@
+d:\program\c++\rpg game\x64\release\vc143.pdb
+d:\program\c++\rpg game\x64\release\miniz.obj
+d:\program\c++\rpg game\x64\release\tilemap.obj
+d:\program\c++\rpg game\x64\release\maingamestate.obj
+d:\program\c++\rpg game\x64\release\physicsworld.obj
+d:\program\c++\rpg game\x64\release\line.obj
+d:\program\c++\rpg game\x64\release\circle.obj
+d:\program\c++\rpg game\x64\release\body.obj
+d:\program\c++\rpg game\x64\release\aabb.obj
+d:\program\c++\rpg game\x64\release\mapobjectlayer.obj
+d:\program\c++\rpg game\x64\release\main.obj
+d:\program\c++\rpg game\x64\release\keystate.obj
+d:\program\c++\rpg game\x64\release\game.obj
+d:\program\c++\rpg game\x64\release\enemy.obj
+d:\program\c++\rpg game\x64\release\stormhead.obj
+d:\program\c++\rpg game\x64\release\mudguard.obj
+d:\program\c++\rpg game\x64\release\droidzapper.obj
+d:\program\c++\rpg game\x64\release\toasterbot.obj
+d:\program\c++\rpg game\x64\release\spritboxer.obj
+d:\program\c++\rpg game\x64\release\bacbot.obj
+d:\program\c++\rpg game\x64\release\character.obj
+d:\program\c++\rpg game\x64\release\animation.obj
+d:\program\c++\rpg game\x64\release\tileset.obj
+d:\program\c++\rpg game\x64\release\tilelayer.obj
+d:\program\c++\rpg game\x64\release\property.obj
+d:\program\c++\rpg game\x64\release\objecttypes.obj
+d:\program\c++\rpg game\x64\release\objectgroup.obj
+d:\program\c++\rpg game\x64\release\object.obj
+d:\program\c++\rpg game\x64\release\map.obj
+d:\program\c++\rpg game\x64\release\layergroup.obj
+d:\program\c++\rpg game\x64\release\imagelayer.obj
+d:\program\c++\rpg game\x64\release\freefuncs.obj
+d:\program\c++\rpg game\x64\release\pugixml.obj
+d:\program\c++\rpg game\x64\release\state.obj
+d:\program\c++\rpg game\x64\release\rpg game.exe
+d:\program\c++\rpg game\x64\release\rpg game.pdb
+d:\program\c++\rpg game\x64\release\rpg game.lib
+d:\program\c++\rpg game\x64\release\rpg game.exp
+d:\program\c++\rpg game\x64\release\rpg game.ipdb
+d:\program\c++\rpg game\x64\release\rpg game.iobj
+d:\program\c++\rpg game\x64\release\rpg game.tlog\cl.command.1.tlog
+d:\program\c++\rpg game\x64\release\rpg game.tlog\cl.read.1.tlog
+d:\program\c++\rpg game\x64\release\rpg game.tlog\cl.write.1.tlog
+d:\program\c++\rpg game\x64\release\rpg game.tlog\link.command.1.tlog
+d:\program\c++\rpg game\x64\release\rpg game.tlog\link.read.1.tlog
+d:\program\c++\rpg game\x64\release\rpg game.tlog\link.write.1.tlog
+d:\program\c++\rpg game\x64\release\rpg game.tlog\rpg game.write.1u.tlog
