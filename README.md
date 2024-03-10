@@ -17,7 +17,7 @@ The game uses velocity to update the position, and the velocity will decrease ov
 
 ## Design Architectures
 ### Class Diagram
-![ClassDiagram](https://github.com/4o4hasfound/RPG-game/assets/138118407/bf0cbc50-e421-45ab-b48d-359b1a9ecff6)
+![ClassDiagram](https://github.com/4o4hasfound/RPG-game/assets/138118407/eabddc5c-413c-4af7-81a6-994ce9964c70)
 
 ### State
 This game uses a stack based state system, is stacks multiple states on top of each other, and the main loop only updates the top most state. You can push and pop states as you wish, even the state the program current is in. This let add functionality like text popup or main menu without too much of a hassel. To add a custom state, all you have to do is to inherit from the State class, fill in all the virtual functions(onCreate, onDestroy, update, draw, reset, etc.), add in some of your own variables and logics, and there you have a custom state, and all is left is to push your state into the StateManager with pushState function inside StateManager. You can also use the popState and topState to access the states inside StateManager.
