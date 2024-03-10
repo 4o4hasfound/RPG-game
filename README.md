@@ -16,6 +16,9 @@ Press right click to dash(use skill)
 The game uses velocity to update the position, and the velocity will decrease over time, so you will not immediate stop when you release a/d key. If you touch any enemy with your dash(skill), you will deal some damage to them, shock them(causing them to stop moving and attacking), and deal huge knockback. And if you happen to kill them using the dash(skill), the cooldown of it will be recharge immediatly.
 
 ## Design Architectures
+### Class Diagram
+![ClassDiagram](https://github.com/4o4hasfound/RPG-game/assets/138118407/62b2c728-7417-4ce8-9f30-0c8da7474e51)
+
 ### State
 This game uses a stack based state system, is stacks multiple states on top of each other, and the main loop only updates the top most state. You can push and pop states as you wish, even the state the program current is in. This let add functionality like text popup or main menu without too much of a hassel. To add a custom state, all you have to do is to inherit from the State class, fill in all the virtual functions(onCreate, onDestroy, update, draw, reset, etc.), add in some of your own variables and logics, and there you have a custom state, and all is left is to push your state into the StateManager with pushState function inside StateManager. You can also use the popState and topState to access the states inside StateManager.
 
